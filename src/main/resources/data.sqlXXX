@@ -1,0 +1,6 @@
+
+insert into USERTABLE
+values (1,'Werner','Ranga','ranga@gmx.net','12345 Ort'),
+        (2,'Otto','Bla','bla@gmx.net','12345 Ort'),
+        (3,'Ulrike','Toef','toef@gmx.net','12345 Ort');
+
