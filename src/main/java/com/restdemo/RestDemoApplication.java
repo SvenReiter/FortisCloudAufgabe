@@ -1,7 +1,7 @@
-package com.thinkconstructive.restdemo;
+package com.restdemo;
 
-import com.thinkconstructive.restdemo.model.User;
-import com.thinkconstructive.restdemo.persistence.UserRepository;
+import com.restdemo.model.User;
+import com.restdemo.persistence.UserRepository;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

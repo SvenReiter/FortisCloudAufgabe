@@ -1,6 +1,6 @@
-package com.thinkconstructive.restdemo.persistence;
+package com.restdemo.persistence;
 
-import com.thinkconstructive.restdemo.model.User;
+import com.restdemo.model.User;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 

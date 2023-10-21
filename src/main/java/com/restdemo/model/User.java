@@ -1,4 +1,4 @@
-package com.thinkconstructive.restdemo.model;
+package com.restdemo.model;
 
 import jakarta.persistence.*;
 

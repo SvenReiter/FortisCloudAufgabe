@@ -1,7 +1,7 @@
-package com.thinkconstructive.restdemo.web;
+package com.restdemo.web;
 
-import com.thinkconstructive.restdemo.model.User;
-import com.thinkconstructive.restdemo.persistence.UserRepository;
+import com.restdemo.model.User;
+import com.restdemo.persistence.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
